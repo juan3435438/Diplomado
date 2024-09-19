@@ -7,4 +7,7 @@ export class CreateProductoDto {
     @IsNumber({}, {message:"El precio debe ser numerico"})
     precio: number;
 
+    @IsNumber({}, {message:"El precio debe ser numerico"})
+    valor: number;
+
 }
