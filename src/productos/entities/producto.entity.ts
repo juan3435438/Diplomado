@@ -1,4 +1,4 @@
-import {Entity, Column, PrimaryGeneratedColumn } from "typeorm";
+/*import {Entity, Column, PrimaryGeneratedColumn } from "typeorm";
 @Entity()
 export class Producto {
     @PrimaryGeneratedColumn()
@@ -14,3 +14,4 @@ export class Producto {
     estado:string;
    
 }
+*/

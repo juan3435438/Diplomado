@@ -1,5 +1,4 @@
-import {Entity, column, PrimaryGeneratedColumn} from "typeorm";
-
+/*import {Entity, Column, PrimaryGeneratedColumn } from "typeorm";
 @Entity()
 export class Categoria 
 {
@@ -15,3 +14,4 @@ export class Categoria
     estado:string;
 
 }
+*/
